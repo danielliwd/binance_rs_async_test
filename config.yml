@@ -1,0 +1,6 @@
+---
+version: 1
+symbol: ORNUSDT
+interval: 2
+order_size_usd: 10
+max_order_count: 2
